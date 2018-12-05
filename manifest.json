@@ -10,6 +10,7 @@
     "keyword": "p"
   },
   "permissions": [
+    "bookmarks",
     "identity",
     "storage",
     "https://getpocket.com/"
